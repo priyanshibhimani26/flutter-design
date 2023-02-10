@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:mobiledesign/page1.dart';
-import 'package:carousel_pro/carousel_pro.dart';
+
+ //import 'https://dart.dev/diagnostics/import_of_legacy_library_into_null_safe';
+
 
 
 void main() {
