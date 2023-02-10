@@ -113,7 +113,7 @@ class _Page2State extends State<Page2> {
                 Expanded(
                   child: Container(
 
-                    margin: EdgeInsets.only(top: 204),
+                    margin: EdgeInsets.only(top: 20),
                     child: Column(
                       children: [
                         Container(
